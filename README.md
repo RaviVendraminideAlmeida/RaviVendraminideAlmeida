@@ -1,1 +1,3 @@
-Coding stuff since 2020. Sometimes I like to build things from scratch. 
+# Hi!
+- Coding since 2020. 
+- I like to increase shareholder value and build cool stuff!
